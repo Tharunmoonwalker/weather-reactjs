@@ -69,6 +69,11 @@ Follow these steps to set up and run the project locally:
 1. **Search for a City**: Enter the name of a city in the search bar and press enter.
 2. **View Weather Information**: The app will display the current climate, humidity, wind speed, and temperature for the specified city.
 
+## Video Guide 
+
+https://github.com/user-attachments/assets/64865cd6-0e46-45ab-b25f-8a9a4647996d
+
+
 ## Technologies Used
 
 - **Vite**: For fast and optimized build.
